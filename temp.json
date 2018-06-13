@@ -1,1 +1,10 @@
-This is a Test
+#This is a Test
+{
+    "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+    "contentVersion": "",
+    "parameters": {  },
+    "variables": {  },
+    "functions": {  },
+    "resources": [  ],
+    "outputs": {  }
+}
